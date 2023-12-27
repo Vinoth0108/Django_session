@@ -1,1 +1,1 @@
-# Django_session
+# Django_Demo
